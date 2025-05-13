@@ -74,10 +74,10 @@ To run the notebook locally:
 
 ## 👥 Authors
 
-**Rakesh R**
-**Mohamed Yasin M**
-**Mohamed Afzer M**
-**Mohamed Afrith J**
-Department of Electronics and Communication Engineering
-Dhaanish Ahmed College of Engineering
+**1. Rakesh R**
+**2. Mohamed Yasin M**
+**3. Mohamed Afzer M**
+**4. Mohamed Afrith J**
+Department of Electronics and Communication Engineering.
+Dhaanish Ahmed College of Engineering.
 
