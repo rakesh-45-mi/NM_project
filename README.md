@@ -78,6 +78,8 @@ To run the notebook locally:
 **2. Mohamed Yasin M**
 **3. Mohamed Afzer M**
 **4. Mohamed Afrith J**
-Department of Electronics and Communication Engineering.
-Dhaanish Ahmed College of Engineering.
+
+Department of Electronics and Communication Engineering
+
+Dhaanish Ahmed College of Engineering
 
